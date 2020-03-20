@@ -1,4 +1,6 @@
-<?php require_once'/newsletter.php'?>
+<?php require_once'../views/layout/footer.php'?>
+<?php require_once'../views/layout/header.php'?>
+<?php require_once'../views/layout/nav.php'?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,12 +12,8 @@
     <h1>Bonjours</h1>
 </body>
 
-<footer>
-    <?php 
-    
+<?php
 
-    
-    ?>
-</footer>
+?>
 
 </html>
