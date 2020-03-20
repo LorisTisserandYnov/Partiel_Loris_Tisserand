@@ -28,3 +28,5 @@ GET est utiliser pour obtenir des données, et POST pour transmettre des donnée
 12h16: pour le localhost je tape dans le terminal : '$ php -S localhost:8000', puis dans mon navigateur je tape 'locahost:8000' mais ça ne me renvois qu'une erreur 404.
 
 12h36: j'ai rajouté de commentaire pour vous donnez une idée de se que je pense de mes code (vérifier uniquement dans ma tête par faute d'accés au localhost).
+
+12H56: malgrès tous mes essaie je ne peut toujours pas accéder a mon localhost.
