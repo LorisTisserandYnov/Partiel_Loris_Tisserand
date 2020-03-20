@@ -9,11 +9,12 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- appellé header ici-->
     <h1>Bonjours</h1>
 </body>
 
 <?php
-
+    //appellé le footer ici
 ?>
 
 </html>

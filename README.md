@@ -22,3 +22,5 @@ GET est utiliser pour obtenir des données, et POST pour transmettre des donnée
 11h28: ne pouvant accéder ni a mes BDD ni à mon localhost pour des raison qui me dépasse, je suis au regret que tout le codde que vous verrais sera fait de tête, il est très probable que rien ne marche et je m'en excuse d'avance.
 
 11h55: ne pouvant toujours pas accéder au ressource il m'est dificile de crée des rôles.
+
+12h07: pour le reste de ce partiel je ne peut malheuresement pas continué, je suis consient que le problème viens de moi, je sais que vous vouliez que nous vous interropons pour vous poser des question mais je suis trop mal à l'aise pour avoir ce genre d'idée, veulliez accepter mes plus plates excuses.
