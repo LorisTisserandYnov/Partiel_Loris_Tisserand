@@ -24,3 +24,5 @@ GET est utiliser pour obtenir des données, et POST pour transmettre des donnée
 11h55: ne pouvant toujours pas accéder au ressource il m'est dificile de crée des rôles.
 
 12h07: pour le reste de ce partiel je ne peut malheuresement pas continué, je suis consient que le problème viens de moi, je sais que vous vouliez que nous vous interropons pour vous poser des question mais je suis trop mal à l'aise pour avoir ce genre d'idée, veulliez accepter mes plus plates excuses.
+
+12h16: pour le localhost je tape dans le terminal : '$ php -S localhost:8000', puis dans mon navigateur je tape 'locahost:8000' mais ça ne me renvois qu'une erreur 404.
