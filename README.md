@@ -14,7 +14,7 @@ Qu'est-ce qu'un DSN et à quoi sert-il dans le cadre de PDO ?
 DSN sont les initial de Data Source Name, c'est une chaine de caractères qui contient la description de la base sur laquelle on souhaite se connecter.
 
 Quelle est la différence entre une requête préparée et une requête non préparée ?
-il me semble que la différence estg que la requête non préparée est plus exploitable pour un pirate pour executer des commandes.
+il me semble que la différence est que la requête non préparée est plus exploitable pour un pirate pour executer des commandes.
 
 Quelle est la différence entre la méthode GET et la méthode POST ?
 GET est utiliser pour obtenir des données, et POST pour transmettre des données.
