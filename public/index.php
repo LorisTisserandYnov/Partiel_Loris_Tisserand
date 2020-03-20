@@ -16,5 +16,5 @@
 <?php
     //appellé le footer ici
 ?>
-
+<!--ce code ne marche pas-->
 </html>

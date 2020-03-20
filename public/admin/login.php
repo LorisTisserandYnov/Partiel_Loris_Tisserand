@@ -53,3 +53,5 @@ require_once '../../views/layout/header.php';
 </form>
 
 <?php require_once '../../views/layout/footer.php'; ?>
+
+<!--il devrais marché normalement-->

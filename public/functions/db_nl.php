@@ -14,3 +14,4 @@ function getPdo(): PDO
     exit("Erreur lors de la connexion à la base de données");
   }
 }
+//je pense qu'il devrais marcher

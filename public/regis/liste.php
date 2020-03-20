@@ -20,3 +20,5 @@ if (isset($_POST['email_nl']))
 
 if (isset($_POST['email']))
     $nom = $_POST['email'];
+
+    //normalement ce code devrais marcher

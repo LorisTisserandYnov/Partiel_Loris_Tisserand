@@ -11,3 +11,4 @@ $insert = $stmt->execute([
     'email_nl' => "lolo@test.com",
 ]);
 echo ($insert) ? "Inscrition réussie" : "Inscription échouée";
+//je pense pas que ce code marche
