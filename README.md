@@ -20,3 +20,5 @@ Quelle est la différence entre la méthode GET et la méthode POST ?
 GET est utiliser pour obtenir des données, et POST pour transmettre des données.
 
 11h28: ne pouvant accéder ni a mes BDD ni à mon localhost pour des raison qui me dépasse, je suis au regret que tout le codde que vous verrais sera fait de tête, il est très probable que rien ne marche et je m'en excuse d'avance.
+
+11h55: ne pouvant toujours pas accéder au ressource il m'est dificile de crée des rôles.

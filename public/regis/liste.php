@@ -1,5 +1,6 @@
 <?php
 require_once '../../functions/db_nl.php';
+require_once '../function/db.php';
 require_once '../../views/layout/header.php';
 ?>
 
@@ -14,4 +15,8 @@ require_once '../../views/layout/header.php';
 }
 
 if (isset($_POST['email_nl']))
+    $nom = $_POST['email_nl'];
+
+
+if (isset($_POST['email']))
     $nom = $_POST['email'];
